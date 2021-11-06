@@ -23,6 +23,15 @@ div.section {
   margin: 0 auto;
 }
 
+.section2 {
+  width: 60%;
+  left: 20%;
+  right: 20%;
+  background-color: rgb(167, 28, 28);
+  text-align: center;
+  margin: 0 auto;
+}
+
 #title-section {
   height: 5em;
 }
